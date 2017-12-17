@@ -20,7 +20,7 @@ Description:
     5) Process docstring using regex
     6) Exception Handling:
        a) Exception specific debug level
-       b) Backtrace prints include arguments to functions
+       b) Function call stack prints include arguments to functions
 
 '''
 
